@@ -1,0 +1,8 @@
+CHANGES
+*******
+
+
+0.1 (25-02-2012)
+==================
+
+- Initial release [amleczko]
