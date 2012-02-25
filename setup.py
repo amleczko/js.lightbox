@@ -10,7 +10,7 @@ def read(*rnames):
 long_description = (
     read('README.txt')
     + '\n' +
-    read('js', 'lightbox', 'test_bootstrap.txt')
+    read('js', 'lightbox', 'test_lightbox.txt')
     + '\n' +
     read('CHANGES.txt'))
 
@@ -36,7 +36,7 @@ setup(
         ],
     entry_points={
         'fanstatic.libraries': [
-            'lightbox = js.bootstrap:library',
+            'lightbox = js.lightbox:library',
             ],
         },
     )
