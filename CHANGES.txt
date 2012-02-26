@@ -2,10 +2,10 @@ CHANGES
 *******
 
 
-0.2 (unreleased)
+0.1.1 (unreleased)
 ================
 
-- Nothing changed yet.
+- update manifest.ini (add gif) [amleczko]
 
 
 0.1 (2012-02-25)
